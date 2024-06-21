@@ -1,0 +1,7 @@
+Olá! Este é um arquivo de texto simples.
+Estou aqui para armazenar algumas
+informações importantes. Espero que este
+arquivo seja útil para o projeto!
+
+Atenciosamente,
+Eu.
